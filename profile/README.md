@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <strong>AI-Powered SEC Intelligence</strong><br/>
+  Institutional-grade insider trading data, holdings analysis, and real-time market analytics.
+</p>
+
+<p align="center">
   <a href="https://signal8.io">Website</a> &middot;
   <a href="https://signal8.io/dashboard">Dashboard</a> &middot;
   <a href="https://signal8.io/pricing">Pricing</a>
