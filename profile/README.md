@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://signal8.io/images/signal8-logo.png" alt="Signal8" width="280" />
+  <img src="https://raw.githubusercontent.com/signal8-dev/.github/main/profile/assets/signal8-cover.png" alt="Signal8 — AI-Powered SEC Intelligence" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Real-Time SEC Intelligence</strong><br/>
-  Institutional-grade insider trading data, holdings analysis, and AI-powered market intelligence.
+  <img src="https://raw.githubusercontent.com/signal8-dev/.github/main/profile/assets/signal8-logo.png" alt="Signal8" width="120" />
+</p>
+
+<p align="center">
+  <strong>AI-Powered SEC Intelligence</strong><br/>
+  Institutional-grade insider trading data, holdings analysis, and real-time market analytics.
 </p>
 
 <p align="center">
