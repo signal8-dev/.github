@@ -3,15 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/signal8-dev/.github/main/profile/assets/signal8-logo.png" alt="Signal8" width="120" />
-</p>
-
-<p align="center">
-  <strong>AI-Powered SEC Intelligence</strong><br/>
-  Institutional-grade insider trading data, holdings analysis, and real-time market analytics.
-</p>
-
-<p align="center">
   <a href="https://signal8.io">Website</a> &middot;
   <a href="https://signal8.io/dashboard">Dashboard</a> &middot;
   <a href="https://signal8.io/pricing">Pricing</a>
